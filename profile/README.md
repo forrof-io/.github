@@ -1,12 +1,51 @@
-## Hi there 👋
+# Forrof — AI-First Software Development Agency
 
-<!--
+> We build production-grade AI systems and full-stack platforms — from intelligent agents and multi-agent architectures to scalable SaaS products.
 
-**Here are some ideas to get you started:**
+🌐 [Website](https://forrof.io) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/company/forrof-io) &nbsp;|&nbsp; 📧 [Contact Us](mailto:hello@forrof.io)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+## 🚀 What We Do
+
+We go beyond prototypes. Forrof delivers end-to-end software solutions with a focus on autonomous AI systems and enterprise-grade applications.
+
+### 🤖 AI & Intelligent Systems
+- Agentic AI & multi-agent system development
+- LLM integration, RAG pipelines & document intelligence
+- AI strategy consulting & proof-of-concept development
+- Domain-specific chatbots & workflow automation
+
+### 🛠️ Software & Product Engineering
+- Full-stack SaaS & web application development
+- Mobile app development (iOS & Android)
+- Cloud infrastructure, DevOps & CI/CD
+- UI/UX design & branding
+
+---
+
+## ⚙️ Tech Stack
+
+| Category | Technologies |
+|---|---|
+| **Languages & Frameworks** | Python · FastAPI · TypeScript · Next.js · React · Node.js |
+| **AI & LLMs** | OpenAI · Anthropic Claude · Google Gemini · LangChain · LangGraph · CrewAI |
+| **Vector Databases** | Pinecone · Weaviate · Qdrant |
+| **Cloud & DevOps** | AWS · GCP · Azure · Docker · CI/CD |
+| **Mobile** | React Native · Flutter |
+
+---
+
+## 🏭 Industries We Serve
+
+E-Governance · Logistics · Food & Hospitality · Real Estate · HRMS · Legal · Event Management
+
+---
+
+## 🤝 Work With Us
+
+We keep things transparent, collaborative, and results-driven. Whether you're a startup building your first product or an enterprise integrating AI into existing workflows — we're ready.
+
+📍 Amityville, NY · Lahore, PK
+
+📬 [hello@forrof.io](mailto:hello@forrof.io) &nbsp;|&nbsp; 🌐 [forrof.io](https://forrof.io)
